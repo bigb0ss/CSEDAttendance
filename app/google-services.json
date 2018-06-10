@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "221216517236",
+    "firebase_url": "https://csedateendance.firebaseio.com",
+    "project_id": "csedateendance",
+    "storage_bucket": "csedateendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221216517236:android:d252ec58d32db76a",
+        "android_client_info": {
+          "package_name": "com.example.bigboss.csedattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221216517236-kt21vb799mg5ms4v8fhcojnl7fl0cta8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bigboss.csedattendance",
+            "certificate_hash": "e9e5142ab55755a6cc031b56d12bc30465c45754"
+          }
+        },
+        {
+          "client_id": "221216517236-lbjugscprpdqh683vn3lfbkj3q13geeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXHYbb2Funp0pQYKKv5qSf7d16171HEEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221216517236-lbjugscprpdqh683vn3lfbkj3q13geeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
